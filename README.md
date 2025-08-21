@@ -1,6 +1,6 @@
 # 📊 Challenges and Opportunities for Improving Financial Inclusion Among Young People (15–24 years) in Nigeria
 
-This repository contains **analysis and possible solutions** on the topic of **financial inclusion among young people (ages 15–24)**. 
+This repository contains **analysis and possible solutions** on the topic of **financial inclusion among young people (ages 15–24)**.  The data is collected from EFInA Access to Financial Services in Nigeria 2020 Survey Questionnaire. 
 
 The slides explore the **factors, challenges, opportunities, and key findings** around financial inclusion, with a focus on educational literacy, access barriers, and digital awareness.  
 
@@ -16,7 +16,7 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 
 ## 📝 Key Topics Covered
 - **Factors Considered:** Gender, Education, Income, Banking Barriers, Awareness of Services, Trust, etc.  
-- **Financial Inclusion Indicators:** Accounts held, banking product usage, financial inclusion score.  
+- **Financial Inclusion Indicators:** Accounts held, banking product usage which adds up to financial inclusion score.  
 - **Challenges:** Low trust, lack of documents, poor financial literacy, irregular income.  
 - **Opportunities:** Digital banking, simplified KYC, literacy programs, youth-focused products.  
 - **Conclusion:**  
