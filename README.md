@@ -1,4 +1,4 @@
-# 📊 Challenges and Opportunities for Improving Financial Inclusion Among Young People (15–24 years) in Nigeria
+## 📊 Challenges and Opportunities for Improving Financial Inclusion Among Young People (15–24 years) in Nigeria
 
 This repository contains **analysis and possible solutions** on the topic of **financial inclusion among young people (ages 15–24)**.  The data is collected from EFInA Access to Financial Services in Nigeria 2020 Survey Questionnaire. 
 
@@ -24,4 +24,4 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 
 ---
 
-
+## Structure
