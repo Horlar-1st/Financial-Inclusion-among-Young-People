@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestClassifier
 
+
 # importing the csv file
 df = pd.read_csv("data/data.csv", index_col= "Unnamed: 0", low_memory=False)
 
@@ -300,4 +301,5 @@ with open("reports/key_factors.txt", "a") as f:
     f.write(f"6. From the Random Forest classifier model, the key factors affecting the FI score are `{importance_RF.Features[0]}`, `{importance_RF.Features[1]}` and `{importance_RF.Features[2]}`\n")
 
 # End of code
+
 print("End of code execution ... ")
