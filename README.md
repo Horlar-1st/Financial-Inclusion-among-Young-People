@@ -9,9 +9,11 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 ## 📂 Repository Contents
 - `data.csv` - Data collected from EFInA
 - `slides.tex` – Main LaTeX source file for the presentation
-- `slides.pdf` – Compiled presentation 
+- `slides.pdf` – Compiled presentation
 - `README.md` – Documentation for the repository 
-
+- Web-based application to help the scoring and analysing youth financial inclusion status.
+- Python scripts to show the analytics of the data.
+ 
 ---
 
 ## 📝 Key Topics Covered
