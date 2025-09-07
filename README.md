@@ -27,19 +27,19 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 ##  Repository Structure
 ```
 Financial-Inclusion-among-Young-People/
-├── app/ – Next.js app directory (pages or layout structure, routing).
-├── components/ – Reusable UI components.
-├── data/ – Raw data files (e.g., EFInA survey data).
-├── hooks/ – React hooks for managing state, data fetching, etc.
-├── lib/ – Utility functions or libraries.
-├── public/ – Static assets (images, icons, etc.).
-├── scripts/ – Project scripts (e.g., data scripts, deployment).
-├── styles/ – Global or component-specific styling.
-├── README.md – Project overview and setup instructions.
-├── components.json – Component metadata/configuration.
-├── next.config.mjs – Next.js configuration.
-├── package.json – Project metadata and dependencies.
-├── pnpm-lock.yaml – Dependency lock file for pnpm.
-├── postcss.config.mjs – Configuration for PostCSS.
-└── tsconfig.json – TypeScript compiler options and settings.
+      ├── app/                – Next.js app directory (pages or layout structure, routing).
+      ├── components/         – Reusable UI components.
+      ├── data/               – Raw data files (e.g., EFInA survey data).
+      ├── hooks/              – React hooks for managing state, data fetching, etc.
+      ├── lib/                – Utility functions or libraries.
+      ├── public/             – Static assets (images, icons, etc.).
+      ├── scripts/            – Project scripts (e.g., data scripts, deployment).
+      ├── styles/             – Global or component-specific styling.
+      ├── README.md           – Project overview and setup instructions.
+      ├── components.json     – Component metadata/configuration.
+      ├── next.config.mjs     – Next.js configuration.
+      ├── package.json        – Project metadata and dependencies
+      ├── pnpm-lock.yaml      – Dependency lock file for pnpm.
+      ├── postcss.config.mjs  – Configuration for PostCSS.
+      └── tsconfig.json       – TypeScript compiler options and settings.
 ```
