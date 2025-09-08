@@ -6,6 +6,7 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 
 ---
 ## Demo of the Financial Inclusion app 
+
 ![Demo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
 ---
