@@ -5,7 +5,10 @@ This repository contains **analysis and possible solutions** on the topic of **f
 The slides explore the **factors, challenges, opportunities, and key findings** around financial inclusion, with a focus on educational literacy, access barriers, and digital awareness.  
 
 ---
+## Demo of the Financial Inclusion app 
+![Demo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
+---
 ## 📂 Repository Contents
 - `data.csv` - Data collected from EFInA
 - `slides.tex` – Main LaTeX source file for the presentation
