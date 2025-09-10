@@ -20,6 +20,16 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
  
 ---
 
+## 🌟 Enhanced Features
+
+* 🧠 **Banking Document Manager**
+ 
+* 🔐 **Financial Educational Hub**
+
+* 🧮 **Banking Service Directory**
+
+---
+
 ## 📝 Key Topics Covered
 - **Factors Considered:** Gender, Education, Income, Banking Barriers, Awareness of Services, Trust, etc.  
 - **Financial Inclusion Indicators:** Accounts held, banking product usage which adds up to financial inclusion score.  
