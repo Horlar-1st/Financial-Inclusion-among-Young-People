@@ -51,7 +51,7 @@ This repository also envisions future tools and applications that could extend b
 
 ---
 
-##  Repository Structure
+## 📂 Repository Structure
 ```
 Financial-Inclusion-among-Young-People/
       ├── app/                – Next.js app directory (pages or layout structure, routing).
