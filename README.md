@@ -26,11 +26,18 @@ This repository also envisions future tools and applications that could extend b
 * 🧠 *Banking Document Manager*  
   A digital tool to help young people track, validate, and manage the documents required for opening and maintaining bank accounts.  
 
-* 🔐 *Financial Educational Hub*  
+* 🔐 *Financial Education Hub*  
   A learning space (interactive modules, tutorials, quizzes) to improve financial literacy among youth and empower informed decision-making.  
 
 * 🧮 *Banking Service Directory*  
   A curated directory of accessible and youth-friendly financial institutions, mobile money platforms, and fintech solutions.  
+
+---
+## 📸 Screenshots
+
+| *Banking Document Manager*                                                                        | *Financial Education Hub*                                                                                 | *Banking Service Directory*                                                                              |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![Document_manager_view]([https://github.com/ChantelleAA/judging_criteria/blob/main/judge_view1.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/document_manager.png)) | ![Financial_education]([https://github.com/ChantelleAA/judging_criteria/blob/main/results_view.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_education.png)) | ![Banking_services]([https://github.com/ChantelleAA/judging_criteria/blob/main/public_judge_view.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/Banking_service.png)) |
 
 ---
 
