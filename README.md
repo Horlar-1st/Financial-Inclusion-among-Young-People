@@ -21,12 +21,16 @@ The slides explore the **factors, challenges, opportunities, and key findings** 
 ---
 
 ## 🌟 Enhanced Features
+This repository also envisions future tools and applications that could extend beyond the slides:
 
-* 🧠 **Banking Document Manager**
- 
-* 🔐 **Financial Educational Hub**
+* 🧠 *Banking Document Manager*  
+  A digital tool to help young people track, validate, and manage the documents required for opening and maintaining bank accounts.  
 
-* 🧮 **Banking Service Directory**
+* 🔐 *Financial Educational Hub*  
+  A learning space (interactive modules, tutorials, quizzes) to improve financial literacy among youth and empower informed decision-making.  
+
+* 🧮 *Banking Service Directory*  
+  A curated directory of accessible and youth-friendly financial institutions, mobile money platforms, and fintech solutions.  
 
 ---
 
