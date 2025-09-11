@@ -76,16 +76,12 @@ To build the slides locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Horlar-1st/financial-inclusion-slides.git
-   cd financial-inclusion-slides
+   git clone https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People.git
+   cd Financial-Inclusion-among-Young-People
 
 2. Compile the LaTeX file using pdflatex or latexmk:
 
-pdflatex slides.tex
-
-or
-
-latexmk -pdf slides.tex
+  pdflatex slides.tex      OR    latexmk -pdf slides.tex
 
 
 3. The compiled presentation will be saved as slides.pdf.
