@@ -37,7 +37,7 @@ This repository also envisions future tools and applications that could extend b
 
 | *Banking Document Manager*                                                                        | *Financial Education Hub*                                                                                 | *Banking Service Directory*                                                                              |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ![Document_manager_view]([https://github.com/ChantelleAA/judging_criteria/blob/main/judge_view1.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/document_manager.png)) | ![Financial_education]([https://github.com/ChantelleAA/judging_criteria/blob/main/results_view.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_education.png)) | ![Banking_services]([https://github.com/ChantelleAA/judging_criteria/blob/main/public_judge_view.png](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/Banking_service.png)) |
+| ![Document_manager_view](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/document_manager.png) | ![Financial_education](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_education.png) | ![Banking_services](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/Banking_service.png) |
 
 ---
 
