@@ -70,3 +70,24 @@ Financial-Inclusion-among-Young-People/
       ├── postcss.config.mjs  – Configuration for PostCSS.
       └── tsconfig.json       – TypeScript compiler options and settings.
 ```
+
+## 🚀 How to Compile
+To build the slides locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Horlar-1st/financial-inclusion-slides.git
+   cd financial-inclusion-slides
+
+2. Compile the LaTeX file using pdflatex or latexmk:
+
+pdflatex slides.tex
+
+or
+
+latexmk -pdf slides.tex
+
+
+3. The compiled presentation will be saved as slides.pdf.
+
+---
