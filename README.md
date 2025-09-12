@@ -62,7 +62,8 @@ Financial-Inclusion-among-Young-People/
       ├── public/             – Static assets (images, icons, etc.).
       ├── scripts/            – Project scripts (e.g., data scripts, deployment).
       ├── styles/             – Global or component-specific styling.
-      ├── README.md           – Project overview and setup instructions.
+      ├── Texfile/            – Tex file and pdf for presentation.
+      ├── README.md           – Project overview and help instructions.
       ├── components.json     – Component metadata/configuration.
       ├── next.config.mjs     – Next.js configuration.
       ├── package.json        – Project metadata and dependencies
