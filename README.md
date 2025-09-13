@@ -88,3 +88,7 @@ To build the slides locally:
 3. The compiled presentation will be saved as slides.pdf.
 
 ---
+
+## 🙌 Credits
+
+Developed by [Shoyombo Moshood O.](https://linkedin.com/in/Horlar-1st) as a project work for Data Analytics for Business course.
