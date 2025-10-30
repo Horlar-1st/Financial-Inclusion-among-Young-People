@@ -2,7 +2,7 @@
 
 This repository contains **analysis and propose possible solutions** on the topic of **financial inclusion among young people (ages 15–24)**.  The data is collected from EFInA Access to Financial Services in Nigeria 2020 Survey Questionnaire. 
 
-This repository contains a slide, that contains the **factors, challenges, opportunities, and key findings** around financial inclusion, with a focus on educational literacy, access barriers, and digital awareness, the application that gives the solution and Python script for the analysis.
+This repository contains a slide, an application and Python script. It contains the **factors, challenges, opportunities, and key findings** around financial inclusion, with a focus on educational literacy, access barriers, and digital awareness.
 
 ---
 ## Demo of the Financial Inclusion app 
