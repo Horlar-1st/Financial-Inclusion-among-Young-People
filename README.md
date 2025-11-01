@@ -78,7 +78,7 @@ Financial-Inclusion-among-Young-People/
 ## 🚀 How to Compile
 To build the slides locally:
 
-1. Clone this repository:
+1. Clone this repository
    ```bash
    git clone https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People.git
    cd Financial-Inclusion-among-Young-People
